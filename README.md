@@ -53,7 +53,7 @@ Database Write
 
 **CRM Specialist | RevOps Architect | HubSpot Expert**
 
-- ✅ 4+ years HubSpot implementation experience
+- ✅ 4+ years SaaS implementation experience
 - ✅ 500+ form workflows configured
 - ✅ 25+ agencies supported
 - ✅ Production RevOps automation
